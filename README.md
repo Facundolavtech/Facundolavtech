@@ -1,11 +1,3 @@
-# 💫 About Me:
-
-### Hi, i'm Facundo Lavagnino, a passionate Full Stack developer from Buenos Aires, Argentina<br>
-💼 I'm currently worked on 
-### Redtrader V2, Trello Clone App, Clipperino App<br>
-🎓 I'm currently learning 
-### Web3, Solidity
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavtech) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flavtech)
